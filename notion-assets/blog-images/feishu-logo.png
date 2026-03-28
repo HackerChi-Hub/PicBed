@@ -1,1 +1,1 @@
-{"Success":-1,"error":{"code":4024,"request_id":"ce0e96c86767197b69c86767-fdbdgdc53g32gb1egg26","message":"Unauthorized accessEndpoint for bucket access.","ec":"0001-00000003","recommend_doc":"https://cloud.bytedance.net/docs/tos/docs/64db3bc855f10602a14c81dc/671f54f792fb7b0328303157"}}
+{"Success":-1,"error":{"code":4024,"request_id":"a93df3c868078b2369c86807-fdbdgdc53g2eg633gg14","message":"Unauthorized accessEndpoint for bucket access.","ec":"0001-00000003","recommend_doc":"https://cloud.bytedance.net/docs/tos/docs/64db3bc855f10602a14c81dc/671f54f792fb7b0328303157"}}
