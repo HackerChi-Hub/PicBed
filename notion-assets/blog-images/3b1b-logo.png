@@ -33,9 +33,9 @@ details[open] { background: #970302; color: #dfdedd; }
 <div class="content-text">
 <h1>Error</h1>
 
-<p>Too many requests (f061ab2)</p>
+<p>Not Found</p>
 </div>
 </div>
-<div class="footer"><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class="text-muted"><code>Request served via cp4052 cp4052, Varnish XID 1031202135<br>Upstream caches: cp4052 int<br>Error: 429, Too many requests (f061ab2) at Sun, 29 Mar 2026 00:18:20 GMT<br><details><summary>Sensitive client information</summary>IP address: 2600:1f14:2e15:f100:af70:d2d1:f181:fe41</details></code></p>
+<div class="footer"><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class="text-muted"><code>Request served via cp4052 cp4052, Varnish XID 1034856249<br>Upstream caches: cp4052 int<br>Error: 404, Not Found at Sun, 29 Mar 2026 00:27:20 GMT<br><details><summary>Sensitive client information</summary>IP address: 34.217.102.40</details></code></p>
 </div>
 </html>
