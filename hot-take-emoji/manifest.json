@@ -1,0 +1,88 @@
+{
+  "_note": "黑粉科技 hot-take 表情包库（ChineseBQB，公开素材，无水印）。key=情绪桶，value=公开CDN URL列表。",
+  "_buckets": {
+    "funny": "搞笑/调侃/吐槽",
+    "programmer": "技术/程序员/敲代码",
+    "happy": "开心/赞同/真香",
+    "shock": "震惊/离谱/沙雕",
+    "cute": "卖萌/反应/缓和"
+  },
+  "emoji": {
+    "funny": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_02.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_03.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_07.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_08.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_09.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_10.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_11.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_12.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_13.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/funny/funny_14.gif"
+    ],
+    "programmer": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_01.png",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_02.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_03.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_04.png",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_05.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_06.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_07.png",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_08.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_09.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_10.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_11.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_12.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_13.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/programmer/programmer_14.gif"
+    ],
+    "happy": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_08.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_09.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_10.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_11.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/happy/happy_12.jpg"
+    ],
+    "shock": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_08.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_09.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_10.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_11.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_12.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_13.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/shock/shock_14.gif"
+    ],
+    "cute": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_04.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_05.png",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_06.png",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_08.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_09.png",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_10.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_11.jpg",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-emoji/cute/cute_12.png"
+    ]
+  }
+}
