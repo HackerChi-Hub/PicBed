@@ -1,0 +1,59 @@
+{
+  "_note": "hot-take 情绪反应动图(ChineseBQB,表情包,无水印). key=中文情绪(对应LLM gif:slot)",
+  "gif": {
+    "震惊": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_08.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_09.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/shock/shock_10.gif"
+    ],
+    "无语": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_08.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_09.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/speechless/speechless_10.gif"
+    ],
+    "开心": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/happy/happy_08.gif"
+    ],
+    "思考": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/think/think_08.gif"
+    ],
+    "有钱": [
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_01.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_02.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_03.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_04.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_05.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_06.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_07.gif",
+      "https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/hot-take-gif/rich/rich_08.gif"
+    ]
+  }
+}
