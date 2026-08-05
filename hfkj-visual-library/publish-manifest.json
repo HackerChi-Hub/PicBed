@@ -1,0 +1,250 @@
+{
+  "schema_version": 3,
+  "library": "hfkj-visual-library",
+  "source_manifest": "本地黑粉科技素材库/共享规范/asset-manifest.json",
+  "generated_at": "2026-08-06",
+  "generator": "Codex built-in image generation",
+  "generator_priority": [
+    "github-library-search",
+    "codex-generate",
+    "local-qa",
+    "github-sync"
+  ],
+  "copyright": "黑粉科技 · hyphentech.top",
+  "naming_policy": "lowercase semantic kebab-case; describe subject and scene; end with landscape or portrait; no numeric-only IDs",
+  "counts": {
+    "independent_content_images": 10,
+    "landscape": 6,
+    "portrait": 4
+  },
+  "qa": {
+    "complete": true,
+    "contact_sheet_reviewed": true,
+    "visible_watermark_verified": true,
+    "copyright_metadata_verified": true,
+    "sha256_unique": true,
+    "user_authorized_publication": true
+  },
+  "assets": [
+    {
+      "id": "local-ai-mini-pc-portable-ssd",
+      "title_zh": "本地 AI 迷你主机与便携固态硬盘",
+      "description_zh": "木质桌面上的本地 AI 迷你主机和一块便携固态硬盘，右侧留有排版空间。",
+      "category": "local-ai-hardware",
+      "keywords": [
+        "本地AI",
+        "迷你主机",
+        "固态硬盘",
+        "离线部署"
+      ],
+      "path": "高质量候选/水印版/local-ai-mini-pc-portable-ssd-landscape.png",
+      "file": "local-ai-mini-pc-portable-ssd-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "984a6172bd8f520bd878cc5207d82037b22f9aeaeddbfd8156ff3b024275fa79",
+      "public_path": "hfkj-visual-library/landscape/local-ai-mini-pc-portable-ssd-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/local-ai-mini-pc-portable-ssd-landscape.png"
+    },
+    {
+      "id": "edge-ai-single-board-computer",
+      "title_zh": "边缘 AI 单板计算机",
+      "description_zh": "带散热片和单根数据线的边缘 AI 单板计算机微距产品照。",
+      "category": "edge-ai-hardware",
+      "keywords": [
+        "边缘AI",
+        "单板计算机",
+        "树莓派",
+        "端侧推理"
+      ],
+      "path": "高质量候选/水印版/edge-ai-single-board-computer-landscape.png",
+      "file": "edge-ai-single-board-computer-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "d45e65d2fd6637e25c1f07a883701aef8970f8ba8f176e14672b7f5d7d2cbc63",
+      "public_path": "hfkj-visual-library/landscape/edge-ai-single-board-computer-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/edge-ai-single-board-computer-landscape.png"
+    },
+    {
+      "id": "single-gpu-ai-workstation",
+      "title_zh": "单显卡 AI 工作站",
+      "description_zh": "侧透机箱内只显示一块显卡的本地 AI 工作站。",
+      "category": "gpu-workstation",
+      "keywords": [
+        "GPU",
+        "AI工作站",
+        "本地大模型",
+        "装机"
+      ],
+      "path": "高质量候选/水印版/single-gpu-ai-workstation-landscape.png",
+      "file": "single-gpu-ai-workstation-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "0d465d9968a26f5168e5e2e5223668442eb4534d485863bd7282b74d639bcaa6",
+      "public_path": "hfkj-visual-library/landscape/single-gpu-ai-workstation-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/single-gpu-ai-workstation-landscape.png"
+    },
+    {
+      "id": "adult-asian-female-ai-creator-workstation",
+      "title_zh": "成年亚洲女性 AI 创作者工作室",
+      "description_zh": "成年东亚女性在配有迷你主机的简洁工作站进行 AI 内容创作。",
+      "category": "ai-content-creation",
+      "keywords": [
+        "AI创作",
+        "自媒体",
+        "工作站",
+        "成年亚洲女性"
+      ],
+      "path": "高质量候选/水印版/adult-asian-female-ai-creator-workstation-landscape.png",
+      "file": "adult-asian-female-ai-creator-workstation-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "54e1dd8c4414b7a2d40e8e5f5704cdfbcca6585911de9e50087df3c544b37d93",
+      "public_path": "hfkj-visual-library/landscape/adult-asian-female-ai-creator-workstation-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/adult-asian-female-ai-creator-workstation-landscape.png"
+    },
+    {
+      "id": "adult-asian-female-ai-podcast-host",
+      "title_zh": "成年亚洲女性 AI 播客主持人",
+      "description_zh": "成年东亚女性在录音室麦克风前主持 AI 播客，左侧留有排版空间。",
+      "category": "ai-media-production",
+      "keywords": [
+        "AI播客",
+        "主持人",
+        "口播",
+        "成年亚洲女性"
+      ],
+      "path": "高质量候选/水印版/adult-asian-female-ai-podcast-host-landscape.png",
+      "file": "adult-asian-female-ai-podcast-host-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "ef008bdd2218b81947a8c7d7071373e4450fe6d7b4c5e611cc35061ba862a43d",
+      "public_path": "hfkj-visual-library/landscape/adult-asian-female-ai-podcast-host-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/adult-asian-female-ai-podcast-host-landscape.png"
+    },
+    {
+      "id": "local-ai-server-data-privacy",
+      "title_zh": "本地 AI 服务器与数据隐私",
+      "description_zh": "迷你服务器与带机械锁的文件盒，表达离线部署和数据隐私。",
+      "category": "privacy-local-deployment",
+      "keywords": [
+        "数据隐私",
+        "本地部署",
+        "离线AI",
+        "服务器"
+      ],
+      "path": "高质量候选/水印版/local-ai-server-data-privacy-landscape.png",
+      "file": "local-ai-server-data-privacy-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "b3ee01b14b010a4dc4ca5eae907f2b02cd76792f3f529831418e2bab10bf7042",
+      "public_path": "hfkj-visual-library/landscape/local-ai-server-data-privacy-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/local-ai-server-data-privacy-landscape.png"
+    },
+    {
+      "id": "adult-asian-female-ai-tech-host",
+      "title_zh": "成年亚洲女性 AI 科技主持人",
+      "description_zh": "深蓝色无袖造型的成年东亚女性科技主持人竖版主视觉。",
+      "category": "ai-tech-host",
+      "keywords": [
+        "科技主持人",
+        "AI媒体",
+        "竖版封面",
+        "成年亚洲女性"
+      ],
+      "path": "高质量候选/水印版/adult-asian-female-ai-tech-host-portrait.png",
+      "file": "adult-asian-female-ai-tech-host-portrait.png",
+      "orientation": "portrait",
+      "width": 2160,
+      "height": 2700,
+      "native_width": 1122,
+      "native_height": 1402,
+      "sha256": "416da78cf3a0feb661b1ccdc6615ec4d5aadf3860de24abd1e93091bf74d0cb7",
+      "public_path": "hfkj-visual-library/portrait/adult-asian-female-ai-tech-host-portrait.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/portrait/adult-asian-female-ai-tech-host-portrait.png"
+    },
+    {
+      "id": "adult-asian-female-local-ai-developer",
+      "title_zh": "成年亚洲女性本地 AI 开发者",
+      "description_zh": "成年东亚女性站在迷你主机工作台前，适合独立开发和自制软件主题。",
+      "category": "local-ai-development",
+      "keywords": [
+        "独立开发者",
+        "本地AI",
+        "自制软件",
+        "成年亚洲女性"
+      ],
+      "path": "高质量候选/水印版/adult-asian-female-local-ai-developer-portrait.png",
+      "file": "adult-asian-female-local-ai-developer-portrait.png",
+      "orientation": "portrait",
+      "width": 2160,
+      "height": 2700,
+      "native_width": 1122,
+      "native_height": 1402,
+      "sha256": "368c7f9e69a7b2651434ada2781b84254dc4418b24f2d3863f75474260940bf0",
+      "public_path": "hfkj-visual-library/portrait/adult-asian-female-local-ai-developer-portrait.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/portrait/adult-asian-female-local-ai-developer-portrait.png"
+    },
+    {
+      "id": "adult-asian-female-smart-glasses",
+      "title_zh": "成年亚洲女性佩戴 AI 智能眼镜",
+      "description_zh": "成年东亚女性在城市咖啡馆窗边佩戴自然外形的智能眼镜。",
+      "category": "wearable-ai",
+      "keywords": [
+        "AI眼镜",
+        "智能穿戴",
+        "未来办公",
+        "成年亚洲女性"
+      ],
+      "path": "高质量候选/水印版/adult-asian-female-smart-glasses-portrait.png",
+      "file": "adult-asian-female-smart-glasses-portrait.png",
+      "orientation": "portrait",
+      "width": 2160,
+      "height": 2700,
+      "native_width": 1122,
+      "native_height": 1402,
+      "sha256": "212094ade4b396a3e401e14a2a2c80a3fc1a93c06b5aa099aea9010d0eecd529",
+      "public_path": "hfkj-visual-library/portrait/adult-asian-female-smart-glasses-portrait.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/portrait/adult-asian-female-smart-glasses-portrait.png"
+    },
+    {
+      "id": "adult-asian-female-tablet-content-review",
+      "title_zh": "成年亚洲女性使用平板审阅 AI 内容",
+      "description_zh": "成年东亚女性单手持平板进行内容审阅，保留完整可见手部。",
+      "category": "ai-productivity",
+      "keywords": [
+        "AI生产力",
+        "平板电脑",
+        "内容审阅",
+        "成年亚洲女性"
+      ],
+      "path": "高质量候选/水印版/adult-asian-female-tablet-content-review-portrait.png",
+      "file": "adult-asian-female-tablet-content-review-portrait.png",
+      "orientation": "portrait",
+      "width": 2160,
+      "height": 2700,
+      "native_width": 1122,
+      "native_height": 1402,
+      "sha256": "20db51fb04d2c147c89891fa0adcfe532af2725aa6ba5e717e16a826a605b353",
+      "public_path": "hfkj-visual-library/portrait/adult-asian-female-tablet-content-review-portrait.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/portrait/adult-asian-female-tablet-content-review-portrait.png"
+    }
+  ]
+}
