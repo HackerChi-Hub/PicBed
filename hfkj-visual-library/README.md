@@ -1,7 +1,7 @@
 # 黑粉科技公开视觉素材库
 
-- 独立内容图：28 张。
-- 横图：24 张；竖图：4 张。
+- 独立内容图：29 张。
+- 横图：25 张；竖图：4 张。
 - 默认先检索复用本目录；缺图时使用 Codex 生成，完成本地验收和水印后再同步。
 - 文件按图片主体和场景使用英文语义短名，不使用纯编号命名。
 - 统一版权：`黑粉科技 · hyphentech.top`。
@@ -39,3 +39,4 @@
 | AI 视频剪辑台摄像头背景 | `ai-video-editing-desk-integrated-logo-webcam-background-landscape.png` | landscape | Mac录屏、视频剪辑、AI创作、立体字Logo、人物居中 |
 | 研究书房桌摄像头背景 | `research-library-desk-integrated-logo-webcam-background-landscape.png` | landscape | Mac录屏、研究书房、深度讲解、木质Logo、人物居中 |
 | 混凝土创业工作台摄像头背景 | `concrete-startup-workbench-integrated-logo-webcam-background-landscape.png` | landscape | Mac录屏、创业工作台、工业极简、嵌入式Logo、人物居中 |
+| 加密推理转入外部工具日志 | `encrypted-reasoning-external-tool-log-landscape.png` | landscape | AI安全、推理记录、工具调用、运行日志、凭证泄露 |

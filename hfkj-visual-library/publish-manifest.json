@@ -2,7 +2,7 @@
   "schema_version": 3,
   "library": "hfkj-visual-library",
   "source_manifest": "本地黑粉科技素材库/共享规范/asset-manifest.json",
-  "generated_at": "2026-08-07",
+  "generated_at": "2026-08-13",
   "generator": "Codex built-in image generation",
   "generator_priority": [
     "github-library-search",
@@ -13,8 +13,8 @@
   "copyright": "黑粉科技 · hyphentech.top",
   "naming_policy": "lowercase semantic kebab-case; describe subject and scene; end with landscape or portrait; no numeric-only IDs",
   "counts": {
-    "independent_content_images": 28,
-    "landscape": 24,
+    "independent_content_images": 29,
+    "landscape": 25,
     "portrait": 4
   },
   "qa": {
@@ -714,6 +714,39 @@
       "sha256": "a843e637e237e34123e8c4753363be0fb3f0fb1ab5f89600cdfb8538bb7e91ff",
       "public_path": "hfkj-visual-library/landscape/concrete-startup-workbench-integrated-logo-webcam-background-landscape.png",
       "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/concrete-startup-workbench-integrated-logo-webcam-background-landscape.png"
+    },
+    {
+      "id": "encrypted-reasoning-external-tool-log",
+      "title_zh": "加密推理转入外部工具日志",
+      "description_zh": "半透明加密数据块经光纤进入外部日志托盘，少量数据颗粒从托盘边缘泄出，表达工具参数与运行日志的凭证泄露风险。",
+      "category": "ai-agent-security",
+      "keywords": [
+        "AI安全",
+        "推理记录",
+        "工具调用",
+        "运行日志",
+        "凭证泄露"
+      ],
+      "use_cases": [
+        "article",
+        "notion",
+        "weixin"
+      ],
+      "allowed_consumers": [
+        "article",
+        "notion",
+        "weixin"
+      ],
+      "path": "高质量候选/水印版/encrypted-reasoning-external-tool-log-landscape.png",
+      "file": "encrypted-reasoning-external-tool-log-landscape.png",
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160,
+      "native_width": 1672,
+      "native_height": 941,
+      "sha256": "8a60f6c3d8d5e53a844be60e983a32eb8e1d8c1d21cbfb5a0c840fae010d4502",
+      "public_path": "hfkj-visual-library/landscape/encrypted-reasoning-external-tool-log-landscape.png",
+      "raw_url": "https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/hfkj-visual-library/landscape/encrypted-reasoning-external-tool-log-landscape.png"
     }
   ]
 }
