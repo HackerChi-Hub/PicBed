@@ -1,0 +1,20 @@
+[
+  {
+    "name": "01-bgm-loops-wav.zip",
+    "bytes": 132319137,
+    "sha256": "f2e0f6f6c3896f76b2238ee71cc099b45ab3ada6ea59eff0438fbf9b63d1a9e3",
+    "url": "https://github.com/HackerChi-Hub/PicBed/releases/download/audio-pack-20261026/01-bgm-loops-wav.zip"
+  },
+  {
+    "name": "02-sfx-environment-wav.zip",
+    "bytes": 65539425,
+    "sha256": "a0d13b6bdc8d320f4a9d1e29977c80ce7f1fa5100c4fb3cdc9957c6447d405df",
+    "url": "https://github.com/HackerChi-Hub/PicBed/releases/download/audio-pack-20261026/02-sfx-environment-wav.zip"
+  },
+  {
+    "name": "03-mobile-previews.zip",
+    "bytes": 25323109,
+    "sha256": "f64dfc317ad92ab46b83a9f2bd75b3a206efbb432d3c829c2d72ec9ca341a206",
+    "url": "https://github.com/HackerChi-Hub/PicBed/releases/download/audio-pack-20261026/03-mobile-previews.zip"
+  }
+]
