@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>《AI入侵的108种方式》· 手机高清整片预览</title>
+<style>
+  body { margin:0; background:#07090d; color:#e8edf5; font:15px/1.55 -apple-system,"PingFang SC",sans-serif; padding:14px; }
+  .wrap { max-width:920px; margin:0 auto; }
+  h1 { font-size:18px; margin:0 0 10px; color:#61e8ad; }
+  video { width:100%; border-radius:10px; border:1px solid #465062; background:#000; display:block; }
+  .sub { font-size:12px; color:#9aa6b8; margin:8px 0 12px; }
+  .jumps { display:flex; flex-wrap:wrap; gap:7px; }
+  button, a.dl { background:#121821; color:#e8edf5; border:1px solid #465062; border-radius:8px; padding:8px 11px; font-size:13px; cursor:pointer; text-decoration:none; display:inline-block; }
+  button:active { border-color:#61e8ad; color:#61e8ad; }
+  .links { margin-top:14px; display:flex; gap:8px; flex-wrap:wrap; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>《AI入侵的108种方式》暗黑黑客整片定稿（03:18 · 1.35× 精校版）</h1>
+  <video id="v" controls playsinline preload="metadata" poster="https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/video-preview/ai-intrusion-108/poster.jpg">
+    <source src="https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/video-preview/ai-intrusion-108/ai-intrusion-108-hd.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/video-preview/ai-intrusion-108/ai-intrusion-108-hd.mp4" type="video/mp4">
+  </video>
+  <div class="sub">点播放即可全屏连看整片（支持拖动进度条与下方章节秒跳）</div>
+  <div class="jumps">
+    <button data-t="0">00:00 边界悬案</button>
+    <button data-t="15.0">00:15 快字典vs智能体</button>
+    <button data-t="27.6">00:27 108三维晶格→8层塔</button>
+    <button data-t="33.9">00:34 L1 2亿港元与L2-4</button>
+    <button data-t="54.9">00:55 全能管家+9.3分漏洞</button>
+    <button data-t="78.4">01:18 L5 20.5万幻觉包</button>
+    <button data-t="106.4">01:46 L6 87%跌7%与4.3×</button>
+    <button data-t="133.6">02:13 L8 三维逻辑锁篡改</button>
+    <button data-t="151.6">02:31 三维混流管与三闸门</button>
+    <button data-t="186.6">03:06 穿门终局亮底</button>
+  </div>
+  <div class="links">
+    <a class="dl" href="https://cdn.jsdelivr.net/gh/HackerChi-Hub/PicBed@main/video-preview/ai-intrusion-108/ai-intrusion-108-hd.mp4" target="_blank">备用直链 1 (jsDelivr CDN MP4)</a>
+    <a class="dl" href="https://raw.githubusercontent.com/HackerChi-Hub/PicBed/main/video-preview/ai-intrusion-108/ai-intrusion-108-hd.mp4" target="_blank">备用直链 2 (GitHub Raw MP4)</a>
+  </div>
+</div>
+<script>
+  const v = document.getElementById('v');
+  document.querySelectorAll('[data-t]').forEach(b => {
+    b.onclick = () => { v.currentTime = parseFloat(b.dataset.t); v.play(); };
+  });
+</script>
+</body>
+</html>
